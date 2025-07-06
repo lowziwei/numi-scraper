@@ -37,7 +37,7 @@ This assessment evaluates your attention to detail, organizational skills, and a
 For QA Master (first-pass), I've outlined what to look out for for each part of the exercise:
 * Question text: 
     * **Missing content**: Check for incomplete words, phrases, or mathematical expressions
-    * **Typos**: Verify proper formatting, especially fractions (must use \frac{x}{y} format)
+    * **Typos**: Verify proper formatting, especially fractions (must use \\frac{x}{y} format)
     * **Coherence**: Ensure questions are logical and clearly understood
 * ⁠Correct answers: Look out for
     * **Accuracy**: Verify answers match the question requirements
