@@ -39,6 +39,7 @@ For QA Master (first-pass), I've outlined what to look out for for each part of 
     * **Missing content**: Check for incomplete words, phrases, or mathematical expressions
     * **Typos**: Verify proper formatting, especially fractions (must use \\frac{x}{y} format)
     * **Coherence**: Ensure questions are logical and clearly understood
+    * **Images (if available)**: Check images match question text
 * ⁠Correct answers: Look out for
     * **Accuracy**: Verify answers match the question requirements
     * **Alternatives**: Identify and note any additional correct answers on the sheet
@@ -48,6 +49,7 @@ For QA Master (first-pass), I've outlined what to look out for for each part of 
     * **Step structure**: Evaluate if steps should be broken down further or combined
     * **Hint effectiveness**: Ensure first two steps work well as NUMI tutoring hints
     * **Completeness**: Check for missing information, words, or typos
+    * **Images (if available)**: Check images match solution text
  
 ### Success Criteria
 * Systematic review of all assigned questions
