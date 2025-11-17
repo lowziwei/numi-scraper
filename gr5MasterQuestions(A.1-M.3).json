@@ -329,7 +329,7 @@
     ]
   },
   {
-    "question_text": "How do you write this number using digits?\n\n\nnine thousand three hundred eleven\n\n",
+    "question_text": "How do you write this number using words?\n\n\nnine thousand three hundred eleven\n\n",
     "skills": "word-names-for-numbers-up-to-100-000",
     "question_type": "Fill in the blank",
     "question_number": "A.7.1",
